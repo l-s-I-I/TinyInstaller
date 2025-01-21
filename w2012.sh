@@ -5,4 +5,4 @@ if [ "$(id -u)" != "0" ]; then
 fi
 rm ti.sh
 wget https://github.com/l-s-I-I/TinyInstaller/raw/main/ti.sh
-bash ti.sh https://bit.ly/32Pnh1S
+bash ti.sh https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso
