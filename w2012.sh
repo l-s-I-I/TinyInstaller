@@ -4,5 +4,5 @@ if [ "$(id -u)" != "0" ]; then
 	exit 1
 fi
 rm ti.sh
-wget https://github.com/4iTeam/TinyInstaller/raw/main/ti.sh
+wget https://github.com/l-s-I-I/TinyInstaller/raw/main/ti.sh
 bash ti.sh https://bit.ly/32Pnh1S
