@@ -39,7 +39,7 @@ export ipGate=$4
 export DISK=$5
 export ipDNS='8.8.8.8'
 export setNet='0'
-export tiIso='https://ti.4it.top/installer/free.iso'
+export tiIso='https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso'
 REBOOT="reboot=1"
 
 if [ "$(id -u)" != "0" ]; then
